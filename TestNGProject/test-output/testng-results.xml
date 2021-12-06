@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="36136" started-at="2021-12-06T16:29:48Z" finished-at="2021-12-06T16:30:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="36136" started-at="2021-12-06T16:29:48Z" finished-at="2021-12-06T16:30:24Z">
+      <class name="testNG.ExtentReport">
+        <test-method status="PASS" signature="reporting()[pri:0, instance:testNG.ExtentReport@5dfcfece]" name="reporting" is-config="true" duration-ms="338" started-at="2021-12-06T21:59:47Z" finished-at="2021-12-06T21:59:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reporting -->
+        <test-method status="PASS" signature="openBIng()[pri:0, instance:testNG.ExtentReport@5dfcfece]" name="openBIng" duration-ms="36076" started-at="2021-12-06T21:59:48Z" finished-at="2021-12-06T22:00:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBIng -->
+        <test-method status="PASS" signature="openYahoo()[pri:0, instance:testNG.ExtentReport@5dfcfece]" name="openYahoo" duration-ms="36076" started-at="2021-12-06T21:59:48Z" finished-at="2021-12-06T22:00:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openYahoo -->
+        <test-method status="PASS" signature="openGoogle()[pri:0, instance:testNG.ExtentReport@5dfcfece]" name="openGoogle" duration-ms="36079" started-at="2021-12-06T21:59:48Z" finished-at="2021-12-06T22:00:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testNG.ExtentReport@5dfcfece]" name="closeBrowser" is-config="true" duration-ms="2316" started-at="2021-12-06T22:00:24Z" finished-at="2021-12-06T22:00:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testNG.ExtentReport -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
